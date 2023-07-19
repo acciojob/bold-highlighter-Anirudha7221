@@ -13,5 +13,5 @@ function return_normal() {
 	var boldWords = document.querySelectorAll('strong')
     boldWords.forEach(function(word) {
     word.style.color = 'black';
-    
+ });
 }
